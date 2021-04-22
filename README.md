@@ -17,5 +17,5 @@
 * MySQL
 * SQL
 
-[![Jason171096 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason171096)]
+![Jason171096 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason171096)
 
