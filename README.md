@@ -1,11 +1,18 @@
 ### Hi, I'm Jason 👨‍💻
-
+-------
 I am a junior developer, wanting to continue learning new things and experiences, I like to take challenges, I want to become a frontend developer 🤖
+
+------
 
 ### I am a Frontend Software Engineer 💻
 * I currently study in platzi 📚
 * I seek to improve my programming skills 🎇
 * I like new experiences 🤸‍♂️
+
+------
+
+### My jobs in CodePen (Click on the image)
+[![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Otx7CXIY9eh0Sxlp54olxAHaDt%26pid%3DApi&f=1)](https://codepen.io/jason171096)
 
 <p align="center">
 <br>
