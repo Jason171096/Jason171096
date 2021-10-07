@@ -20,7 +20,7 @@ I am a junior developer, wanting to continue learning new things and experiences
 <a href="https://www.linkedin.com/in/jm-jason-martinez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:bboyace10@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
-<a href="https://app.daily.dev/bboyace10"><img src="https://api.daily.dev/devcards/5964cb842d304cba8e2a357a5794588f.png?r=c7d" width="400" alt="Jason's Dev Card"/></a>  
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Jason171096/Jason171096/blob/main/devcard.svg" width="400" alt="Jason Bongers's Dev Card"/></a>
   
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
