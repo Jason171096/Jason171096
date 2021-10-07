@@ -11,15 +11,6 @@ I am a junior developer, wanting to continue learning new things and experiences
 
 ------
 
-### My jobs in CodePen (Click on the image)
-[![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Otx7CXIY9eh0Sxlp54olxAHaDt%26pid%3DApi&f=1)](https://codepen.io/jason171096)
-
-<p align="center">
-<br>
-<a href="https://www.facebook.com/JasonMartinezMaldonado/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jm-jason-martinez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:bboyace10@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Jason171096/Jason171096/blob/main/devcard.svg" width="400" alt="Jason Bongers's Dev Card"/></a>
   
 <h2> 🛠 &nbsp;My Tech Stack</h2>
