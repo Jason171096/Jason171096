@@ -1,6 +1,7 @@
-### Hi, I'm Jason 👨‍💻
+### < Hi there! />
+### I'm Jason 👨‍💻
 -------
-I am a junior developer, wanting to continue learning new things and experiences, I like to take challenges, I want to become a frontend developer 🤖
+I am a Web Developer, wanting to continue learning new things and experiences, I like to take challenges, I want to become a frontend developer 🤖
 
 ------
 
