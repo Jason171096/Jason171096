@@ -1,14 +1,22 @@
-### < Hi there! />
-### I'm Jason 👨‍💻
+<h1 align="center">
+    < Hi there! />
+     
+</h1>
+<h1 align="center">
+    I'm Jason 👨‍💻
+</h1>
+
+
 -------
 I am a Web Developer, wanting to continue learning new things and experiences, I like to take challenges, I want to become a frontend developer 🤖
 
 ------
 
 ### I am a Frontend Software Engineer 💻
-* I currently study in platzi 📚
-* I seek to improve my programming skills 🎇
-* I like new experiences 🤸‍♂️
+* 📚 I'm currently study in platzi 
+* 🎇 I'm seek to improve my programming skills 
+* 🤸‍ I'm lokking for like new experiences 
+* 💼 Checkout my [Portafolio](https://jason171096.netlify.app/)
 
 ------
 
