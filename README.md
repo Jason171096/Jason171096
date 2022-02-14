@@ -16,7 +16,7 @@ I am a Web Developer, wanting to continue learning new things and experiences, I
 * 📚 I'm currently study in platzi 
 * 🎇 I'm seek to improve my programming skills 
 * 🤸‍ I'm lokking for like new experiences 
-* 💼 Checkout my [Portafolio](https://jason171096.netlify.app/)
+* 💼 Checkout my [Portafolio](https://jason-mm.netlify.app/)
 
 ------
 
