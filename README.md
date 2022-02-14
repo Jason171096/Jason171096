@@ -20,7 +20,7 @@ I am a Web Developer, wanting to continue learning new things and experiences, I
 
 ------
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Jason171096/Jason171096/blob/main/devcard.svg" width="400" alt="Jason Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/bboyace10"><img src="https://api.daily.dev/devcards/5964cb842d304cba8e2a357a5794588f.png?r=h2o" width="400" alt="Jason's Dev Card"/></a>
   
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
